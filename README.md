@@ -32,4 +32,4 @@
 >You tap piano keys to create music.
 
 [MusicApp](https://gallery.appinventor.mit.edu/?galleryid=84dc9f90-a3ee-44b9-bb8e-1da3e3bb5e09)
->You have 4 instruments to choose from and you tap each to play their respective sounds. Each has their own respective pause buttons from which you can stop playing the instrument of their assigned instruments. You can also record the music you play and external sounds coming from outside the device. Then you can play the recorded sounds by pressing the play recording button
+>You have 4 instruments to choose from and you tap each to play their respective sounds. Each has their own respective pause buttons from which you can stop playing the instrument of their assigned instruments. You can also record the music you play and external sounds coming from outside the device. Then you can play the recorded sounds by pressing the "Play Recording" button
