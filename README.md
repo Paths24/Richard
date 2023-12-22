@@ -22,7 +22,7 @@
 >In this project you play as baskertball boy who has to stay in the visible screen area you jump collect coins and dodge tigers as you try your best to stay in the screen area.
 
 [Final Game](https://studio.code.org/projects/gamelab/o2Croot22rnO73F74YSUMrgEDVTTvkzKK5Ug3NU-zHk)
->In this project you play as a speeding car. You got 50 lives by which you are allowed to hit 50 cars without dying, hit your 51st car and you die. You collect coins and unlock new environments as you collect enough coins.  
+>In this project you play as a speeding car. You got 50 lives by which you are allowed to hit 49 cars without dying, hit your 50th car and you die. You collect coins and unlock new environments as you collect enough coins.  
 
 ### ai2.appinventor.mit.edu
 [HelloItsMe](https://gallery.appinventor.mit.edu/?galleryid=77a05f40-4185-44aa-9f80-f11e543cc3ab)
